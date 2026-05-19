@@ -1,0 +1,8 @@
+## What Went Well
+Our team continued to divide responsibilities effectively and work on different parts of the project. Compared to the previous sprint progress felt way smoother and faster, and tasks were completed more efficiently. Communication was consistent, and team members were responsive when help was needed. We were also able to finish most tasks with time to spare in case anything broke last minute, which ended up helping reduce last-minute stress.
+
+## What Did Not Go Well
+One issue we encountered was working out of order on some tasks. Such as beginning automated testing before fully resolving earlier implementation issues from the last Sprint. This led to some confusion and extra work later in the sprint. We also ran into problems where we attempted to modify files that were not meant to be changed which required reverting changes and added unnecessary effort. Additionally there were minor communication delays and notification issues that sometimes made coordination less efficient.
+
+## What To Do Differently
+For future sprints, we will focus on completing tasks in the correct order and ensuring that earlier requirements are fully done before moving on. We should also double check project guidelines (such as which files should not be modified) before making changes. Improving task prioritization on the project board and possibly adding priority labels will help guide our workflow. Finally continuing to improve communication and updating each other more consistently will help keep everyone aligned. 
